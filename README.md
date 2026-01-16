@@ -5,6 +5,12 @@ It includes authentication, product management, cart system, and order placement
 
 ---
 
+You can watch the demo here:  
+🔗 **Demo Video Link:**  
+https://drive.google.com/file/d/1N1_cso0wJL6ydjZXj3-m-ynyvw5a1OLM/view?usp=drivesdk 
+
+This video explains the full project flow and functionality clearly for easy review.
+
 ## 🚀 Tech Stack
 
 ### Frontend
@@ -133,3 +139,4 @@ Each product contains:
 **Manish Kumar**  
 MERN Stack Developer  
 QuickKart Project 🚀
+
